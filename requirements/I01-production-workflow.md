@@ -71,14 +71,14 @@ We will complete most of this section together in class.
 
 By the end of the guided portion:
 
-- [ ] WSL/Linux is ready for development.
-- [ ] The project is located in the Linux filesystem under `/home/...`.
-- [ ] Git author name and email are configured.
-- [ ] The local Git repository has been initialized.
-- [ ] The default branch is named `main`.
-- [ ] The initial `README.md` has been committed locally.
-- [ ] A public `my-platform` repository exists on GitHub.
-- [ ] GitHub CLI is installed and authenticated.
+- [x] WSL/Linux is ready for development.
+- [x] The project is located in the Linux filesystem under `/home/...`.
+- [x] Git author name and email are configured.
+- [x] The local Git repository has been initialized.
+- [x] The default branch is named `main`.
+- [x] The initial `README.md` has been committed locally.
+- [x] A public `my-platform` repository exists on GitHub.
+- [x] GitHub CLI is installed and authenticated.
 - [ ] The local repository is connected to GitHub as `origin`.
 - [ ] Local `main` has been pushed to GitHub.
 - [ ] A GitHub ruleset protects `main`.
